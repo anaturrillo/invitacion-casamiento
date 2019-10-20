@@ -1,0 +1,72 @@
+.marco {
+    background: url(marco.jpg) 13px 0 no-repeat;
+    width: 550px;
+    height: 750px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 146px;
+}
+
+.chicos {
+}
+
+.nombre{
+    font-size: 35px;
+}
+
+.apellido {
+    font-size: 18px;
+    margin-bottom: 13px;
+}
+
+.frase {
+    text-transform: none;
+    margin: 38px 0 27px 0;
+    padding: 0 186px;
+    font-size: 18px;
+}
+
+.fecha{
+    letter-spacing: 3px;
+    font-size: 15px;
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+.lugar{
+    font-size: 16px;
+    text-transform: none;
+    padding: 0 167px;
+}
+
+.regalo {
+    background-color: #D4D4D4;
+    margin: 0 0 50px 0;
+    font-family: 'Quicksand', sans-serif;
+    overflow: hidden;
+    padding: 25px;
+}
+
+.regalo div {
+    float: right;
+}
+
+.regalito{
+    position: static;
+
+}
+.regalito img {
+    width: 50px;
+    margin-top: 92px;
+    text-align: left;
+}
+.info{
+    padding-left: 10px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.info span {
+    font-weight: bold;
+}

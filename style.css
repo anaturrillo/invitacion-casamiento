@@ -1,0 +1,44 @@
+.marco {
+    background: url("marco.jpg") 7px 0 no-repeat;
+    width: 550px;
+    height: 750px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 160px;
+}
+
+.chicos {
+}
+
+.nombre{
+    font-size: 28px;
+}
+
+.apellido {
+    font-size: 14px;
+    margin-bottom: 22px;
+}
+
+.frase {
+    font-family: 'Playfair Display', serif;
+    text-transform: none;
+    margin: 38px 0 50px 0;
+    padding: 0 171px;
+}
+
+.fecha{
+    letter-spacing: 3px;
+    font-size: 14px;
+    margin-bottom: 24px;
+}
+
+.lugar{
+    font-size: 13px;
+    text-transform: none;
+    padding: 0 167px;
+}
+
+.regalo {
+    background-color: #D4D4D4;
+}
