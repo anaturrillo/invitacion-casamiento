@@ -5,7 +5,8 @@
     font-family: 'Open Sans Condensed', sans-serif;
     text-transform: uppercase;
     text-align: center;
-    padding-top: 146px;
+    padding-top: 127px;
+    margin: 0 auto;
 }
 
 .chicos {
@@ -17,12 +18,11 @@
 
 .apellido {
     font-size: 18px;
-    margin-bottom: 13px;
 }
 
 .frase {
     text-transform: none;
-    margin: 38px 0 27px 0;
+    margin: 27px 0;
     padding: 0 186px;
     font-size: 18px;
 }
@@ -35,7 +35,7 @@
 }
 
 .lugar{
-    font-size: 16px;
+    font-size: 15px;
     text-transform: none;
     padding: 0 167px;
 }
@@ -69,4 +69,8 @@
 
 .info span {
     font-weight: bold;
+}
+
+.y {
+    font-size: 22px;
 }

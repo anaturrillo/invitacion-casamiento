@@ -1,0 +1,34 @@
+.marco {
+    background: url(marco.jpg) 13px 0 no-repeat;
+    width: 550px;
+    height: 750px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 175px;
+    margin: 0 auto;
+}
+
+.regalo{}
+
+.regalo img {
+    width: 36px;
+}
+
+.frase {
+    text-transform: none;
+    margin: 3px 0 27px 0;
+    padding: 0 186px;
+    font-size: 23px;
+    line-height: 26px;
+}
+
+.info{
+    padding-left: 10px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.info span {
+    font-weight: bold;
+}
