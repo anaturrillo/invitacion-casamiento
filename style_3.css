@@ -20,6 +20,10 @@
     font-size: 18px;
 }
 
+.numero {
+    font-size: 226px;
+}
+
 .frase {
     text-transform: none;
     margin: 27px 0;
@@ -73,4 +77,15 @@
 
 .y {
     font-size: 22px;
+}
+
+.marco-numero {
+    background: url(marco.jpg) -29px -48px no-repeat;
+    width: 482px;
+    height: 436px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 93px;
+    margin: 0 auto;
 }
